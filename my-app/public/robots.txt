@@ -1,3 +1,18 @@
-# https://www.robotstxt.org/robotstxt.html
+Host: https://coolraccoons.com.ua
+
+User-agent: Googlebot
+
+
+Disallow: /form/
+Disallow: /aboutus/
+Disallow: /thankspage/
+
+
+
+
+
 User-agent: *
-Disallow:
+Allow: /
+
+
+Sitemap: https://coolraccoons.com.ua/sitemap.xml

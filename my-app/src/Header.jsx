@@ -38,11 +38,11 @@ export class Header extends React.Component{
                             </span>
                         </a>
                     </div>
-                    <a className="NavbarMobile-burgermenu-link" href="http://localhost:3000/">Штаб</a>
-                    <a className="NavbarMobile-burgermenu-link" href="http://localhost:3000/ourworks">Мы во всей красе</a>
-                    <a className="NavbarMobile-burgermenu-link" href="http://localhost:3000/ourprojects">Интерестные штуки</a>
-                    <a className="NavbarMobile-burgermenu-link" href="http://localhost:3000/aboutus">О студии</a>
-                    <a className="NavbarMobile-burgermenu-link" href="http://localhost:3000/form">Заказать</a>
+                    <a className="NavbarMobile-burgermenu-link" href="https://coolraccoons.com.ua">Штаб</a>
+                    <a className="NavbarMobile-burgermenu-link" href="https://coolraccoons.com.ua/ourworks">Мы во всей красе</a>
+                    <a className="NavbarMobile-burgermenu-link" href="https://coolraccoons.com.ua/ourprojects">Интерестные штуки</a>
+                    <a className="NavbarMobile-burgermenu-link" href="https://coolraccoons.com.ua/aboutus">О студии</a>
+                    <a className="NavbarMobile-burgermenu-link" href="https://coolraccoons.com.ua/form">Заказать</a>
                 </div>
             </div>
         )

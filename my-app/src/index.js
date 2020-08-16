@@ -10,6 +10,7 @@ import { OurWorks } from './pages/Ourworks';
 import { OurProjects } from './pages/OurProjects';
 import { AboutUs } from './pages/AboutUs';
 import { FormPage } from './pages/Form';
+import { ThanksPage } from './thanksPage';
 
 
 
@@ -27,7 +28,7 @@ ReactDOM.render(
       <Route path="/aboutus" component={AboutUs} />
 
       <Route path="/form" component={FormPage} />
-
+      <Route path="/thankspage" component={ThanksPage} />
 
 
 

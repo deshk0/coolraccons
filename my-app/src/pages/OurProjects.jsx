@@ -92,22 +92,22 @@ class OurProjectsMain extends React.Component {
                 <ArticleBox
                     title="Статья: «Как сайт помогает бизнесу?»"
                     desc="Наверное, Вы уже замечали, что практически у каждого бизнеса есть свой сайт, на котором они продают услуги, рассказывают о своей компании, презентуют новые товары или просто делятся полезной информацией. ..."
-                    href="http://localhost:3000/ourprojects/article-kak-site-pomogaet-biznesy"
+                    href="https://coolraccoons.com.ua/ourprojects/article-kak-site-pomogaet-biznesy"
                 />
                 <ArticleBox
                     title="Статья: «Какая информация нужна для создания сайта?»"
                     desc="Безусловно, что бы создать хороший сайт с нуля без капли информации практически невозможно. SEO специалисты не смогут нормально написать текст, составить семантику, создать портрет целевой аудитории, создать..."
-                    href="http://localhost:3000/ourprojects/article-kakaya-informacia-nyjna-saity"
+                    href="https://coolraccoons.com.ua/ourprojects/article-kakaya-informacia-nyjna-saity"
                 />
                 <ArticleBox
                     title="Статья: «Все о логотипах. Что нужно? Какой выбрать?»"
                     desc="И снова здравствуйте! Сегодня мы поговорим о логотипах и разберемся, какой же из предложенных вариантов выбрать, что отличает хороший лого от плохого, какой логотип подходит под конкретный вариант бизнеса, что нужно дизайнеру... "
-                    href="http://localhost:3000/ourprojects/article-vse-o-logo"
+                    href="https://coolraccoons.com.ua/ourprojects/article-vse-o-logo"
                 />
                 <ArticleBox
                     title="Статья: «Какой сайт выбрать?»"
                     desc="Вы, наверное, уже знаете, что сайты бывают совершенно разные по строению, цели, размерам, внешнему виду и так далее. В этой статье мы постараемся разобраться, какой же все таки сайт подойдет именно Вам. ..."
-                    href="http://localhost:3000/ourprojects/article-kakoy-site-vibrat"
+                    href="https://coolraccoons.com.ua/ourprojects/article-kakoy-site-vibrat"
                 />
             </div>
         )

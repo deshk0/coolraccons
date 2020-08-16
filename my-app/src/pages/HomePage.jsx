@@ -9,6 +9,7 @@ export class HomePage extends React.Component{
     render(){
         return(
             <div>
+                
                 <Header />
                 <div className="Wrapper">
                     <Main />
@@ -158,21 +159,21 @@ class Main extends React.Component{
                         title="Веб-сайт" 
                         desc1="Сайт клуба активного" 
                         desc2="отдыха Lucky Travel" 
-                        href="http://localhost:3000/ourworks/sites/luckytravelsite"
+                        href="ourworks/sites/luckytravelsite"
                     />
                     <OurWorksBox 
                         img="https://ckwbpq.db.files.1drv.com/y4my2Xr2IRVx5Ql6ZEtIOrltYgFM0SIglWRAgwQc5rsB-9nMrMrFfFeCZh6KSjBHce94LGTh-ZFwyRJ4AZgj82AF5fdPcg6HLRysSrEIVj1qWU6WrJLOwdLX0sI1NSBtPNVqq9leE7oN7OgJZ9bphGFEZ_ipxkCgZX1F7c3knMRWO2VzOLIxZDURHnW6KQMr5A74EHKQYLH61EZsibaymufMg?width=355&height=490&cropmode=none"
                         title="Лого" 
                         desc1="Разработка логотипа" 
                         desc2="Черкасского ОТГ"
-                        href="http://localhost:3000/ourworks/logo/cherkassy"
+                        href="ourworks/logo/cherkassy"
                     />
                     <OurWorksBox 
                         img="https://ckycsq.db.files.1drv.com/y4mn40yIQIa8cIz1SFIu4jOuCfv5PRCQaoEKZh4lOatdTBPw4swoLAdi2slxdxKfG7b2mpfi5jTxRJqkk82mpExUDjwjf0zvzKheDgDIVl8kYLOyBJa_DKM37qHLPeAT9TCuJZVRQtI8UQGj58WZWvlv5Wu9UKkux20HFSjqYsAEjIlsY0fyiQ7y8UY6Tgc90PMBnbBiWV0dhMb4Mn_aKZ-JA?width=356&height=488&cropmode=none"
                         title="Упаковка бизнеса" 
                         desc1="Лого, брендинг и сайт" 
                         desc2="для строй.компании" 
-                        href="http://localhost:3000/ourworks/sites/stroimsnamisite"
+                        href="ourworks/sites/stroimsnamisite"
                     />
                 </div>
                 <div className="Homepage-ourworks-href">
@@ -660,7 +661,7 @@ class OurServices extends React.Component{
                             <a className="OurServicesBox-button" href="/">
                                 Заказать <img className="OurServicesBox-button-paw" src="paw-2.svg" alt="icon"/>
                             </a>
-                            <div className="OurServicesBox-price">От 2999 грн.</div>
+                            <div className="OurServicesBox-price">От 999 грн.</div>
                         </div>
                     </div>
                     <div onMouseOver={this.onMouseOver5 = this.onMouseOver5.bind(this)} className="OurServicesBox">
@@ -694,7 +695,7 @@ class OurServices extends React.Component{
                             <a className="OurServicesBox-button" href="/">
                                 Заказать <img className="OurServicesBox-button-paw" src="paw-2.svg" alt="icon"/>
                             </a>
-                            <div className="OurServicesBox-price">От 2999 грн.</div>
+                            <div className="OurServicesBox-price">От 999 грн.</div>
                         </div>
                     </div>
                 </div>  

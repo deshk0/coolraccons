@@ -48,6 +48,25 @@ body{
     --blue: #0554f2;
     --gray: #efeff4;
 }
+/*<-----------------------------------------------THANKSPAGE---------------------------------------------------------------------------------> */
+#ThanksPage{
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px;
+}
+.ThanksPage-text{
+    font-size: 22px;
+    margin: 20px 0;
+
+}
+.ThanksPage-button{
+    text-decoration: underline;
+    color: var(--blue);
+}
+.ThanksPage-button:hover{
+    transition: 0.5s;
+    font-size: 18px;
+}
 /*<-----------------------------------------------HOT---------------------------------------------------------------------------------> */
 .Navbar-container, .HomePage-ourworks,.GvardLogoCase-container-box1{
     display: flex;

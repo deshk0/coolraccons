@@ -1,7 +1,7 @@
 <?php
-/*https://api.telegram.org/bot1163166859:AAF5Qrf_wr9YgBiNuPzEar2k1lUlxldcT2Y/getUpdates
+/*https://api.telegram.org/bot1267647902:AAGc3zIVwhh2hqT8EjapcLOss19bjdCX4Do/getUpdates
 $token = "1163166859:AAF5Qrf_wr9YgBiNuPzEar2k1lUlxldcT2Y";
-$chat_id = "-322039872";
+$chat_id = "-408562161";
 
 
 */
@@ -10,8 +10,8 @@ $name = $_POST['user_name'];
 $phone = $_POST['user_phone'];
 $text = $_POST['user_text'];
 
-$token = "1163166859:AAF5Qrf_wr9YgBiNuPzEar2k1lUlxldcT2Y";
-$chat_id = "-322039872";
+$token = "1267647902:AAGc3zIVwhh2hqT8EjapcLOss19bjdCX4Do";
+$chat_id = "-408562161";
 $arr = array(
   'Имя пользователя: ' => $name,
   'Телефон: ' => $phone,
